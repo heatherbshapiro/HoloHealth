@@ -21,6 +21,12 @@
                 <!--<CompositeTransform TranslateX="100" ScaleX="{Binding Value, ElementName=MySlider}" ScaleY="{Binding Value, ElementName=MySlider}"/>-->
             </Button.RenderTransform>
         </Button>
+        <Button Click="{x:Bind ViewModel.connectHub}" RenderTransformOrigin="0.584,3.062" Content="Connect">
+            <Button.RenderTransform>
+                <CompositeTransform TranslateX="100" />
+                <!--<CompositeTransform TranslateX="100" ScaleX="{Binding Value, ElementName=MySlider}" ScaleY="{Binding Value, ElementName=MySlider}"/>-->
+            </Button.RenderTransform>
+        </Button>
         <!--<Slider Width="500" Minimum=".5" Maximum="5.0" x:Name="MySlider" StepFrequency="0.1" />-->
     </StackPanel>
 </Page>

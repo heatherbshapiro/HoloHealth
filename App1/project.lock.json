@@ -25,6 +25,9 @@
           "lib/uap10.0/Microsoft.Azure.Amqp.Uwp.dll": {}
         }
       },
+      "Microsoft.Azure.C.SharedUtility/1.0.18": {
+        "type": "package"
+      },
       "Microsoft.Azure.Devices.Client/1.0.19": {
         "type": "package",
         "dependencies": {
@@ -38,6 +41,18 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.Azure.Devices.Client.winmd": {}
+        }
+      },
+      "Microsoft.Azure.IoTHub.IoTHubClient/1.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.C.SharedUtility": "1.0.18"
+        }
+      },
+      "Microsoft.Azure.IoTHub.Serializer/1.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.C.SharedUtility": "1.0.18"
         }
       },
       "Microsoft.Band/1.3.20628": {
@@ -2014,6 +2029,9 @@
           "lib/uap10.0/Microsoft.Azure.Amqp.Uwp.dll": {}
         }
       },
+      "Microsoft.Azure.C.SharedUtility/1.0.18": {
+        "type": "package"
+      },
       "Microsoft.Azure.Devices.Client/1.0.19": {
         "type": "package",
         "dependencies": {
@@ -2027,6 +2045,18 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.Azure.Devices.Client.winmd": {}
+        }
+      },
+      "Microsoft.Azure.IoTHub.IoTHubClient/1.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.C.SharedUtility": "1.0.18"
+        }
+      },
+      "Microsoft.Azure.IoTHub.Serializer/1.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.C.SharedUtility": "1.0.18"
         }
       },
       "Microsoft.Band/1.3.20628": {
@@ -3869,6 +3899,9 @@
           "lib/uap10.0/Microsoft.Azure.Amqp.Uwp.dll": {}
         }
       },
+      "Microsoft.Azure.C.SharedUtility/1.0.18": {
+        "type": "package"
+      },
       "Microsoft.Azure.Devices.Client/1.0.19": {
         "type": "package",
         "dependencies": {
@@ -3882,6 +3915,18 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.Azure.Devices.Client.winmd": {}
+        }
+      },
+      "Microsoft.Azure.IoTHub.IoTHubClient/1.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.C.SharedUtility": "1.0.18"
+        }
+      },
+      "Microsoft.Azure.IoTHub.Serializer/1.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.C.SharedUtility": "1.0.18"
         }
       },
       "Microsoft.Band/1.3.20628": {
@@ -5681,6 +5726,9 @@
           "lib/uap10.0/Microsoft.Azure.Amqp.Uwp.dll": {}
         }
       },
+      "Microsoft.Azure.C.SharedUtility/1.0.18": {
+        "type": "package"
+      },
       "Microsoft.Azure.Devices.Client/1.0.19": {
         "type": "package",
         "dependencies": {
@@ -5694,6 +5742,18 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.Azure.Devices.Client.winmd": {}
+        }
+      },
+      "Microsoft.Azure.IoTHub.IoTHubClient/1.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.C.SharedUtility": "1.0.18"
+        }
+      },
+      "Microsoft.Azure.IoTHub.Serializer/1.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.C.SharedUtility": "1.0.18"
         }
       },
       "Microsoft.Band/1.3.20628": {
@@ -7545,6 +7605,9 @@
           "lib/uap10.0/Microsoft.Azure.Amqp.Uwp.dll": {}
         }
       },
+      "Microsoft.Azure.C.SharedUtility/1.0.18": {
+        "type": "package"
+      },
       "Microsoft.Azure.Devices.Client/1.0.19": {
         "type": "package",
         "dependencies": {
@@ -7558,6 +7621,18 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.Azure.Devices.Client.winmd": {}
+        }
+      },
+      "Microsoft.Azure.IoTHub.IoTHubClient/1.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.C.SharedUtility": "1.0.18"
+        }
+      },
+      "Microsoft.Azure.IoTHub.Serializer/1.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.C.SharedUtility": "1.0.18"
         }
       },
       "Microsoft.Band/1.3.20628": {
@@ -9357,6 +9432,9 @@
           "lib/uap10.0/Microsoft.Azure.Amqp.Uwp.dll": {}
         }
       },
+      "Microsoft.Azure.C.SharedUtility/1.0.18": {
+        "type": "package"
+      },
       "Microsoft.Azure.Devices.Client/1.0.19": {
         "type": "package",
         "dependencies": {
@@ -9370,6 +9448,18 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.Azure.Devices.Client.winmd": {}
+        }
+      },
+      "Microsoft.Azure.IoTHub.IoTHubClient/1.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.C.SharedUtility": "1.0.18"
+        }
+      },
+      "Microsoft.Azure.IoTHub.Serializer/1.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.C.SharedUtility": "1.0.18"
         }
       },
       "Microsoft.Band/1.3.20628": {
@@ -11221,6 +11311,9 @@
           "lib/uap10.0/Microsoft.Azure.Amqp.Uwp.dll": {}
         }
       },
+      "Microsoft.Azure.C.SharedUtility/1.0.18": {
+        "type": "package"
+      },
       "Microsoft.Azure.Devices.Client/1.0.19": {
         "type": "package",
         "dependencies": {
@@ -11234,6 +11327,18 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.Azure.Devices.Client.winmd": {}
+        }
+      },
+      "Microsoft.Azure.IoTHub.IoTHubClient/1.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.C.SharedUtility": "1.0.18"
+        }
+      },
+      "Microsoft.Azure.IoTHub.Serializer/1.0.17": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.C.SharedUtility": "1.0.18"
         }
       },
       "Microsoft.Band/1.3.20628": {
@@ -13037,6 +13142,74 @@
         "lib/uap10.0/Microsoft.Azure.Amqp.Uwp.dll"
       ]
     },
+    "Microsoft.Azure.C.SharedUtility/1.0.18": {
+      "sha512": "4HXfZW5IUr0d1owPkh9b1kCFJcdjq0wb4h6l3BQgsiCi7ZCuXYgQECPtNmkmlrnfCuh7HmxNhBwOpZHJPLGFWg==",
+      "type": "package",
+      "path": "Microsoft.Azure.C.SharedUtility/1.0.18",
+      "files": [
+        "Microsoft.Azure.C.SharedUtility.1.0.18.nupkg.sha512",
+        "Microsoft.Azure.C.SharedUtility.nuspec",
+        "build/native/Microsoft.Azure.C.SharedUtility.targets",
+        "build/native/Win32/Debug/aziotsharedutil.lib",
+        "build/native/Win32/Debug/aziotsharedutil.pdb",
+        "build/native/Win32/Release/aziotsharedutil.lib",
+        "build/native/arm/Debug/aziotsharedutil.lib",
+        "build/native/arm/Debug/aziotsharedutil.pdb",
+        "build/native/arm/Release/aziotsharedutil.lib",
+        "build/native/include/azure_c_shared_utility/agenttime.h",
+        "build/native/include/azure_c_shared_utility/base64.h",
+        "build/native/include/azure_c_shared_utility/buffer_.h",
+        "build/native/include/azure_c_shared_utility/condition.h",
+        "build/native/include/azure_c_shared_utility/consolelogger.h",
+        "build/native/include/azure_c_shared_utility/constbuffer.h",
+        "build/native/include/azure_c_shared_utility/constmap.h",
+        "build/native/include/azure_c_shared_utility/crt_abstractions.h",
+        "build/native/include/azure_c_shared_utility/doublylinkedlist.h",
+        "build/native/include/azure_c_shared_utility/gb_stdio.h",
+        "build/native/include/azure_c_shared_utility/gb_time.h",
+        "build/native/include/azure_c_shared_utility/gballoc.h",
+        "build/native/include/azure_c_shared_utility/hmac.h",
+        "build/native/include/azure_c_shared_utility/hmacsha256.h",
+        "build/native/include/azure_c_shared_utility/httpapi.h",
+        "build/native/include/azure_c_shared_utility/httpapiex.h",
+        "build/native/include/azure_c_shared_utility/httpapiexsas.h",
+        "build/native/include/azure_c_shared_utility/httpheaders.h",
+        "build/native/include/azure_c_shared_utility/list.h",
+        "build/native/include/azure_c_shared_utility/lock.h",
+        "build/native/include/azure_c_shared_utility/macro_utils.h",
+        "build/native/include/azure_c_shared_utility/map.h",
+        "build/native/include/azure_c_shared_utility/optionhandler.h",
+        "build/native/include/azure_c_shared_utility/platform.h",
+        "build/native/include/azure_c_shared_utility/refcount.h",
+        "build/native/include/azure_c_shared_utility/sastoken.h",
+        "build/native/include/azure_c_shared_utility/sha-private.h",
+        "build/native/include/azure_c_shared_utility/sha.h",
+        "build/native/include/azure_c_shared_utility/shared_util_options.h",
+        "build/native/include/azure_c_shared_utility/socketio.h",
+        "build/native/include/azure_c_shared_utility/stdint_ce6.h",
+        "build/native/include/azure_c_shared_utility/string_tokenizer.h",
+        "build/native/include/azure_c_shared_utility/strings.h",
+        "build/native/include/azure_c_shared_utility/threadapi.h",
+        "build/native/include/azure_c_shared_utility/tickcounter.h",
+        "build/native/include/azure_c_shared_utility/tlsio.h",
+        "build/native/include/azure_c_shared_utility/tlsio_openssl.h",
+        "build/native/include/azure_c_shared_utility/tlsio_schannel.h",
+        "build/native/include/azure_c_shared_utility/tlsio_wolfssl.h",
+        "build/native/include/azure_c_shared_utility/umock_c_prod.h",
+        "build/native/include/azure_c_shared_utility/uniqueid.h",
+        "build/native/include/azure_c_shared_utility/urlencode.h",
+        "build/native/include/azure_c_shared_utility/vector.h",
+        "build/native/include/azure_c_shared_utility/wsio.h",
+        "build/native/include/azure_c_shared_utility/x509_openssl.h",
+        "build/native/include/azure_c_shared_utility/x509_schannel.h",
+        "build/native/include/azure_c_shared_utility/xio.h",
+        "build/native/include/azure_c_shared_utility/xlogging.h",
+        "build/native/x64/Debug/aziotsharedutil.lib",
+        "build/native/x64/Debug/aziotsharedutil.pdb",
+        "build/native/x64/Release/aziotsharedutil.lib",
+        "thirdpartynotice.txt"
+      ]
+    },
     "Microsoft.Azure.Devices.Client/1.0.19": {
       "sha512": "uag/DHxzURsS42Wy2FXsmg9+qjHSzts5JyEFpbw4JzrklwbkCfiea8W48k+5LcJkS5ZOr731TESc3+Zo63KeAA==",
       "type": "package",
@@ -13050,6 +13223,66 @@
         "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/Microsoft.Azure.Devices.Client.PCL.dll",
         "lib/uap10.0/Microsoft.Azure.Devices.Client.winmd",
         "thirdpartynotice.txt"
+      ]
+    },
+    "Microsoft.Azure.IoTHub.IoTHubClient/1.0.17": {
+      "sha512": "xtl0xUJOE0y5Hld4uK/KE/SleJHhUYW+GWCrHcZdq1ndxqOvpcA49NMmn8/pWVcC5Uet+dJ433p+Et1Si/VwQg==",
+      "type": "package",
+      "path": "Microsoft.Azure.IoTHub.IoTHubClient/1.0.17",
+      "files": [
+        "Microsoft.Azure.IoTHub.IoTHubClient.1.0.17.nupkg.sha512",
+        "Microsoft.Azure.IoTHub.IoTHubClient.nuspec",
+        "build/native/Microsoft.Azure.IoTHub.IoTHubClient.targets",
+        "build/native/Win32/Debug/iothub_client.lib",
+        "build/native/Win32/Debug/iothub_client.pdb",
+        "build/native/Win32/Release/iothub_client.lib",
+        "build/native/arm/Debug/iothub_client.lib",
+        "build/native/arm/Debug/iothub_client.pdb",
+        "build/native/arm/Release/iothub_client.lib",
+        "build/native/include/iothub_client.h",
+        "build/native/include/iothub_client_ll.h",
+        "build/native/include/iothub_client_options.h",
+        "build/native/include/iothub_client_private.h",
+        "build/native/include/iothub_client_version.h",
+        "build/native/include/iothub_message.h",
+        "build/native/include/iothub_transport_ll.h",
+        "build/native/include/iothubtransport.h",
+        "build/native/x64/Debug/iothub_client.lib",
+        "build/native/x64/Debug/iothub_client.pdb",
+        "build/native/x64/Release/iothub_client.lib"
+      ]
+    },
+    "Microsoft.Azure.IoTHub.Serializer/1.0.17": {
+      "sha512": "ugLWnUtuEW8s5fDTUbJlgtE9OTtddY1l5ifXsxbyd+4LTqRsV6LzWPPSEmHr+ZUw8DEYBRcVBEeIvmdmku4YNQ==",
+      "type": "package",
+      "path": "Microsoft.Azure.IoTHub.Serializer/1.0.17",
+      "files": [
+        "Microsoft.Azure.IoTHub.Serializer.1.0.17.nupkg.sha512",
+        "Microsoft.Azure.IoTHub.Serializer.nuspec",
+        "build/native/Microsoft.Azure.IoTHub.Serializer.targets",
+        "build/native/Win32/Debug/serializer.lib",
+        "build/native/Win32/Debug/serializer.pdb",
+        "build/native/Win32/Release/serializer.lib",
+        "build/native/arm/Debug/serializer.lib",
+        "build/native/arm/Debug/serializer.pdb",
+        "build/native/arm/Release/serializer.lib",
+        "build/native/include/agenttypesystem.h",
+        "build/native/include/codefirst.h",
+        "build/native/include/commanddecoder.h",
+        "build/native/include/datamarshaller.h",
+        "build/native/include/datapublisher.h",
+        "build/native/include/dataserializer.h",
+        "build/native/include/iotdevice.h",
+        "build/native/include/jsondecoder.h",
+        "build/native/include/jsonencoder.h",
+        "build/native/include/multitree.h",
+        "build/native/include/schema.h",
+        "build/native/include/schemalib.h",
+        "build/native/include/schemaserializer.h",
+        "build/native/include/serializer.h",
+        "build/native/x64/Debug/serializer.lib",
+        "build/native/x64/Debug/serializer.pdb",
+        "build/native/x64/Release/serializer.lib"
       ]
     },
     "Microsoft.Band/1.3.20628": {
@@ -16724,6 +16957,8 @@
   "projectFileDependencyGroups": {
     "": [
       "Microsoft.Azure.Devices.Client >= 1.0.19",
+      "Microsoft.Azure.IoTHub.IoTHubClient >= 1.0.17",
+      "Microsoft.Azure.IoTHub.Serializer >= 1.0.17",
       "Microsoft.Band >= 1.3.20628",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 5.1.0"
     ],

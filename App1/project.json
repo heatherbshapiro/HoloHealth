@@ -1,6 +1,8 @@
 ﻿{
   "dependencies": {
     "Microsoft.Azure.Devices.Client": "1.0.19",
+    "Microsoft.Azure.IoTHub.IoTHubClient": "1.0.17",
+    "Microsoft.Azure.IoTHub.Serializer": "1.0.17",
     "Microsoft.Band": "1.3.20628",
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.1.0"
   },
